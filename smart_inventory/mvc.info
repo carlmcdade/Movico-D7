@@ -1,9 +1,0 @@
-name = Movico
-description = Administrate inventory objects and user interfaces
-package = Movico modules
-core = 7.x
-
-version = "7.x"
-core = "7.x"
-project = "movico"
-datestamp = "1318680418"
